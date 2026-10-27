@@ -21,7 +21,7 @@ RAG · MCP · n8n · Python · PostgreSQL / pgvector · Web scraping
 |---|---|---|
 | **Agence Ben Maamoun Travel** | Travel agency website, built in collaboration with [Meddhia](https://github.com/meddhia07) | [agence-maamoun.com](https://www.agence-maamoun.com/fr) |
 | **Nexaflow AI website** | Business website for an AI and automation agency | [nexaflowai.dev](https://nexaflowai.dev) |
-| **Nexaflow AI chatbot** | Multilingual (EN/FR/AR) RAG chatbot with lead capture, live on the Nexaflow site (FastAPI, pgvector, Groq) | [Try it on nexaflowai.dev](https://nexaflowai.dev) · [Source code](https://github.com/abdelhamid-007/nexaflow-chatbot) |
+| **Nexaflow AI chatbot** | Multilingual (EN/FR/AR) RAG chatbot with lead capture, live on the Nexaflow site (FastAPI, pgvector, Groq) | [Try it on nexaflowai.dev](https://nexaflowai.dev) (chat button, bottom right) |
 
 ### Featured project
 
