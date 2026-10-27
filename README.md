@@ -15,6 +15,14 @@ RAG · MCP · n8n · Python · PostgreSQL / pgvector · Web scraping
 - **n8n workflows:** AI automations your team can open and edit without writing code.
 - **Data pipelines:** scrape, clean, and enrich web data with AI, then send it to your database, CRM, or Google Sheets.
 
+### 🌐 Live projects
+
+| Project | What it is | Link |
+|---|---|---|
+| **Agence Ben Maamoun Travel** | Travel agency website, built in collaboration with [Meddhia](https://github.com/meddhia07) | [agence-maamoun.com](https://www.agence-maamoun.com/fr) |
+| **Nexaflow AI website** | Business website for an AI and automation agency | [nexaflowai.dev](https://nexaflowai.dev) |
+| **Nexaflow AI chatbot** | Multilingual (EN/FR/AR) RAG chatbot with lead capture, live on the Nexaflow site (FastAPI, pgvector, Groq) | [Try it on nexaflowai.dev](https://nexaflowai.dev) · [Source code](https://github.com/abdelhamid-007/nexaflow-chatbot) |
+
 ### Featured project
 
 #### [AI Travel Assistant](https://github.com/abdelhamid-007/ai-travel-assistant): one system, built three ways
